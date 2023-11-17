@@ -1,4 +1,10 @@
-# ECON 1010 - 
+# ECON 1010 - Final Project
+
+## Team Members
+- Anirudh Iyer, AKI22
+- Rahul Mannepuli, RVM15
+- Aakash Arvapalli, AAA240
+- Daniel Mancini, DPM62
 ## Overview
 
 This repository contains Python code for data analysis and visualization of average wages for different groups, specifically focusing on comparing wages between the USA and selected immigrant groups. The analysis involves filtering, splitting data, calculating averages, and creating bar graphs for visualization.
@@ -13,7 +19,7 @@ This repository contains Python code for data analysis and visualization of aver
 ## Usage
 Requirements: Python 3.6 or higher, and pip3
 
-1. Download the data from the 1940 Census from [IPUMS](https://pop.umn.edu/projects/ipums-usa), with variables MIGPLAC5 and US1940A_FAMERN , and save it as `data.csv` in `data/`.
+1. Download the data from the 1940 Census from [IPUMS](https://pop.umn.edu/projects/ipums-usa), with variables MIGPLAC5 and US1940A_FAMERN, and save it as `data.csv` in `data/`.
 
 2. **Clone the Repository:**
    ```bash

@@ -5,16 +5,23 @@
 - Rahul Mannepuli, RVM15
 - Aakash Arvapalli, AAA240
 - Daniel Mancini, DPM62
+
 ## Overview
 
 This repository contains Python code for data analysis and visualization of average wages for different groups, specifically focusing on comparing wages between the USA and selected immigrant groups. The analysis involves filtering, splitting data, calculating averages, and creating bar graphs for visualization.
 
+## Research Question
+How did the average income vary over the decades of 1940, 1950, and 1960 for individuals categorized by their birthplaces?
+
 ## Contents
-- `preprocess/`: This code contains the labels from the IPUMS data for variables `BPL`/`BPLD`, and `RACE`/`RACED`. The labels are stored in `BPLD_key.csv` and `RACED_key.csv` respectively. 
+- `preprocess/`: 
+   - This code contains the labels from the IPUMS data for variables `BPL`/`BPLD`, and `RACE`/`RACED`. The labels are stored in `BPLD_key.csv` and `RACED_key.csv` respectively. 
 - `data/data.csv`: The main dataset containing relevant information.
     - This data is sourced from [Integrated Public Use Microdata Series (IPUMS)](https://pop.umn.edu/projects/ipums-usa), from the 1940 Census data
-- `main.py`: Python script for data analysis and visualization.
-- `results/`: Directory for storing CSV files generated during the analysis, generated bar graph, and the generated line graphs
+- `main.py`: 
+   - Python script for data analysis and visualization.
+- `results/`
+   - Directory for storing CSV files generated during the analysis, generated bar graph, and the generated line graphs
 
 ## Usage
 Requirements: Python 3.6 or higher, and pip3

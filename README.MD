@@ -35,7 +35,10 @@ Requirements: Python 3.6 or higher, and pip3
    cd EconDataAnalysis
    ```
 2. **Download the Data:**
-Download the data from the 1940 Census from [IPUMS](https://pop.umn.edu/projects/ipums-usa), with the added harmonic variables `RACED`, `BPLD`, and `INCWAGE`, and change the data format to csv. Download this file, run ` gzip -ad ~/Downloads/data.csv.gz` to unzip the file, and move it to the `data/` directory. Be sure to rename it to `data.csv`.
+The data for this experiment is available at `data/data.csv.gz`. However, if you wish to download the data yourself, follow these steps:
+   - Download the data from the 1940 Census from [IPUMS](https://pop.umn.edu/projects/ipums-usa), with samples of `1430`, `1950` and   `1960`, and harmonic variables `RACED`, `BPLD`, and `INCWAGE`. Be sure to change the data format to csv, then download this file, and move it to the `data/` directory.
+
+Run ` gzip -ad data/data.csv.gz` to unzip the file. Be sure to rename it to `data.csv`.
 
 3. **Install Dependencies:**
    ```bash

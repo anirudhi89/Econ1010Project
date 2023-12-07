@@ -1,0 +1,164 @@
+code,label
+001,Alabama
+002,Alaska
+004,Arizona
+005,Arkansas
+006,California
+008,Colorado
+009,Connecticut
+010,Delaware
+011,District of Columbia
+012,Florida
+013,Georgia
+015,Hawaii
+016,Idaho
+017,Illinois
+018,Indiana
+019,Iowa
+020,Kansas
+021,Kentucky
+022,Louisiana
+023,Maine
+024,Maryland
+025,Massachusetts
+026,Michigan
+027,Minnesota
+028,Mississippi
+029,Missouri
+030,Montana
+031,Nebraska
+032,Nevada
+033,New Hampshire
+034,New Jersey
+035,New Mexico
+036,New York
+037,North Carolina
+038,North Dakota
+039,Ohio
+040,Oklahoma
+041,Oregon
+042,Pennsylvania
+044,Rhode Island
+045,South Carolina
+046,South Dakota
+047,Tennessee
+048,Texas
+049,Utah
+050,Vermont
+051,Virginia
+053,Washington
+054,West Virginia
+055,Wisconsin
+056,Wyoming
+090,Native American
+099,United States
+100,American Samoa
+105,Guam
+110,Puerto Rico
+115,U.S. Virgin Islands
+120,Other US Possessions
+150,Canada
+155,St. Pierre and Miquelon
+160,Atlantic Islands
+199,North America
+200,Mexico
+210,Central America
+250,Cuba
+260,West Indies
+299,Americas
+300,SOUTH AMERICA
+400,Denmark
+401,Finland
+402,Iceland
+403,Lapland 
+404,Norway
+405,Sweden
+410,England
+411,Scotland
+412,Wales
+413,United Kingdom
+414,Ireland
+419,Northern Europe
+420,Belgium
+421,France
+422,Liechtenstein
+423,Luxembourg
+424,Monaco
+425,Netherlands
+426,Switzerland
+429,Western Europe
+430,Albania
+431,Andorra
+432,Gibraltar
+433,Greece
+434,Italy
+435,Malta
+436,Portugal
+437,San Marino
+438,Spain
+439,Vatican City
+440,Southern Europe
+450,Austria
+451,Bulgaria
+452,Czechoslovakia
+453,Germany
+454,Hungary
+455,Poland
+456,Romania
+457,Yugoslavia
+458,Central Europe
+459,Eastern Europe
+460,Estonia
+461,Latvia
+462,Lithuania
+463,Baltic States
+465,Other USSR/Russia
+499,Europe
+500,China
+501,Japan
+502,Korea
+509,East Asia
+510,Brunei
+511,Cambodia (Kampuchea)
+512,Indonesia
+513,Laos
+514,Malaysia
+515,Philippines
+516,Singapore
+517,Thailand
+518,Vietnam
+519,Southeast Asia
+520,Afghanistan
+521,India
+522,Iran
+523,Maldives
+524,Nepal
+530,Bahrain
+531,Cyprus
+532,Iraq
+533,Iraq/Saudi Arabia
+534,Israel/Palestine
+535,Jordan
+536,Kuwait
+537,Lebanon
+538,Oman
+539,Qatar
+540,Saudi Arabia
+541,Syria
+542,Turkey
+543,United Arab Emirates
+544,Yemen Arab Republic (North)
+545,Yemen, PDR (South)
+546,Persian Gulf States
+547,Middle East
+548,Southwest Asia
+549,Asia Minor
+550,South Asia
+599,Asia
+600,AFRICA
+700,Australia and New Zealand
+710,Pacific Islands
+800,Antarctica
+900,Abroad (unknown) or at sea
+950,Other
+999,Missing/blank

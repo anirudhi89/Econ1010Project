@@ -1,6 +1,6 @@
 # ECON 1010 - Final Project
 
-#### How did the average income vary over the decades of 1940, 1950, and 1960 for individuals categorized by their birthplaces?
+#### How did average income vary for people during and after World War II based on birthplace?
 
 ## Team Members
 - Anirudh Iyer, AKI22
